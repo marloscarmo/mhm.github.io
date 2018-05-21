@@ -314,6 +314,9 @@
   width: 100%;
   color: #000;
   font-weight: 700;
+  font-size: 14px;
+  line-height: 20px;
+  margin: 0;
 }
 
 .service-item-description {
@@ -1263,4 +1266,3 @@ html.w-mod-js *[data-ix="10-scroll"] {
     height: 370px;
   }
 }
-
